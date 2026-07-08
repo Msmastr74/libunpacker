@@ -1,4 +1,9 @@
 # libunpacker
+[![PyPI - Version](https://img.shields.io/pypi/v/libunpacker)](https://pypi.org/project/libunpacker/)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![PyPI downloads](https://img.shields.io/pypi/dm/libunpacker)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Msmastr74/libunpacker/python-publish.yml)
+
 A multi-format archive unpacking utility supporting deep recursion.
 
 ## How to use it
